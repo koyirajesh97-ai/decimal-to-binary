@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class DecimalToBinary {
     public static void main(String[] args){
+    // done
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         String bin = "";
