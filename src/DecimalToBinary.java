@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class DecimalToBinary {
     public static void main(String[] args){
+    // minor changes
     // done
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
