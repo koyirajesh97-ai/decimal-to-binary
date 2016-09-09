@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// added input validation
 
 public class DecimalToBinary {
     public static void main(String[] args){
