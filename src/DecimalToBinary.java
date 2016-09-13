@@ -18,3 +18,4 @@ public class DecimalToBinary {
         sc.close();
     }
 }
+// TODO: handle edge cases
