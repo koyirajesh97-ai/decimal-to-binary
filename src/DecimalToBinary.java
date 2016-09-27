@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class DecimalToBinary {
     public static void main(String[] args){
+    // tested manually
     // minor changes
     // done
         Scanner sc = new Scanner(System.in);
