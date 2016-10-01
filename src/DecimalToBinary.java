@@ -7,6 +7,7 @@ public class DecimalToBinary {
     // minor changes
     // done
         Scanner sc = new Scanner(System.in);
+        // updated
         // works as expected
         int n = sc.nextInt();
         String bin = "";
